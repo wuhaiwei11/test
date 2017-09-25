@@ -1,0 +1,3 @@
+input
+int;;
+int a=10;
